@@ -8,6 +8,8 @@ TagManager:
   - Fantasma
   - TunnelRight
   - TunnelLeft
+  - pared
+  - Nodo
   layers:
   - Default
   - TransparentFX
